@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/hanguler?logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/hanguler)
 [![Node.js](https://img.shields.io/node/v/hanguler?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Astro36/hanguler.ts/Node.js?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Astro36/hanguler.ts/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Astro36/hanguler.ts/nodejs.yml?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Astro36/hanguler.ts/actions)
 [![Downloads](https://img.shields.io/npm/dt/hanguler?logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/hanguler)
 [![License](https://img.shields.io/npm/l/hanguler?style=for-the-badge)](./LICENSE)
 
